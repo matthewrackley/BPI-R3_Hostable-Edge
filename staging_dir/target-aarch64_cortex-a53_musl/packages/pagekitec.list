@@ -1,0 +1,12 @@
+./
+./host
+./usr
+./usr/include
+./usr/include/pagekite.h
+./usr/lib
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/libpagekite.pc
+./usr/lib/libpagekite.a
+./usr/lib/libpagekite.so
+./usr/lib/libpagekite.so.1
+./usr/lib/libpagekite.so.1.0.0

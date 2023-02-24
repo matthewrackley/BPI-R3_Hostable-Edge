@@ -1,0 +1,16 @@
+cfg80211.ko
+compat.ko
+hwmon.ko
+libc.so
+libgcc_s.so.1
+libiwinfo.so.20230121
+libnl-tiny.so
+libubox.so.20220927
+libubus.so.20220615
+libuci.so
+mac80211.ko
+mt76-connac-lib.ko
+mt76.ko
+mt7615-common.ko
+mt7615e.ko
+seqiv.ko

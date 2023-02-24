@@ -1,0 +1,11 @@
+./
+./host
+./usr
+./usr/include
+./usr/include/crypt.h
+./usr/lib
+./usr/lib/libxcrypt
+./usr/lib/libxcrypt/libcrypt.a
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/libcrypt.pc
+./usr/lib/pkgconfig/libxcrypt.pc

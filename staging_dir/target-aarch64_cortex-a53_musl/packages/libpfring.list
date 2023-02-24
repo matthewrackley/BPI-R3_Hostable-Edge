@@ -1,0 +1,12 @@
+./
+./host
+./usr
+./usr/include
+./usr/include/nbpf.h
+./usr/include/pfring.h
+./usr/include/pfring_mod_pcap.h
+./usr/include/pfring_mod_sysdig.h
+./usr/lib
+./usr/lib/libpfring.so
+./usr/lib/libpfring.so.8
+./usr/lib/libpfring.so.8.0.0

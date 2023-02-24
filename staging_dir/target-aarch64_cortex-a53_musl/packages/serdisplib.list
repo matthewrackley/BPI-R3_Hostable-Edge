@@ -1,0 +1,17 @@
+./
+./host
+./usr
+./usr/include
+./usr/include/serdisplib
+./usr/include/serdisplib/serdisp.h
+./usr/include/serdisplib/serdisp_colour.h
+./usr/include/serdisplib/serdisp_connect.h
+./usr/include/serdisplib/serdisp_control.h
+./usr/include/serdisplib/serdisp_messages.h
+./usr/include/serdisplib/serdisp_parport.h
+./usr/include/serdisplib/serdisp_tools.h
+./usr/lib
+./usr/lib/libserdisp.a
+./usr/lib/libserdisp.so
+./usr/lib/libserdisp.so.2
+./usr/lib/libserdisp.so.2.02

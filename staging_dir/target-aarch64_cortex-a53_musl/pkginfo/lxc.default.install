@@ -1,0 +1,12 @@
+lxc
+lxc-common
+lxc-hooks
+lxc-configs
+lxc-templates
+liblxc
+lxc-unprivileged
+lxc-attach
+lxc-console
+lxc-create
+lxc-monitor
+lxc-monitord

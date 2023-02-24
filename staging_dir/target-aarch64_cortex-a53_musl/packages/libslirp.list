@@ -1,0 +1,13 @@
+./
+./host
+./usr
+./usr/lib
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/slirp.pc
+./usr/lib/libslirp.so
+./usr/lib/libslirp.so.0
+./usr/lib/libslirp.so.0.4.0
+./usr/include
+./usr/include/slirp
+./usr/include/slirp/libslirp-version.h
+./usr/include/slirp/libslirp.h

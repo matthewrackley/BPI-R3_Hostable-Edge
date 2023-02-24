@@ -1,0 +1,16 @@
+./
+./host
+./usr
+./usr/lib
+./usr/lib/libuhttpd.so.3.14.1
+./usr/lib/libuhttpd.so
+./usr/include
+./usr/include/uhttpd
+./usr/include/uhttpd/uhttpd.h
+./usr/include/uhttpd/log.h
+./usr/include/uhttpd/utils.h
+./usr/include/uhttpd/list.h
+./usr/include/uhttpd/handler.h
+./usr/include/uhttpd/buffer.h
+./usr/include/uhttpd/http_parser.h
+./usr/include/uhttpd/config.h

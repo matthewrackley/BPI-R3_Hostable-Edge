@@ -1,0 +1,6 @@
+cdc_ether.ko
+mii.ko
+rndis_host.ko
+usb-common.ko
+usbcore.ko
+usbnet.ko

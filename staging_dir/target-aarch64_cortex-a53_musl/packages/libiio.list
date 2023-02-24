@@ -1,0 +1,11 @@
+./
+./host
+./usr
+./usr/include
+./usr/include/iio.h
+./usr/lib
+./usr/lib/libiio.so
+./usr/lib/libiio.so.0
+./usr/lib/libiio.so.0.21
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/libiio.pc

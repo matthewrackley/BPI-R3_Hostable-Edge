@@ -1,0 +1,11 @@
+libc.so
+libgcc_s.so.1
+libpcre2-8.so
+libpcre2-8.so.0
+libpcre2-8.so.0.10.2
+libpcre2-posix.so
+libpcre2-posix.so.3
+libpcre2-posix.so.3.0.0
+libyang.so
+libyang.so.2
+libyang.so.2.13.7

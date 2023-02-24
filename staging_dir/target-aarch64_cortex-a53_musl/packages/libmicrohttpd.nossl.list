@@ -1,0 +1,12 @@
+./
+./host
+./usr
+./usr/include
+./usr/include/microhttpd.h
+./usr/lib
+./usr/lib/libmicrohttpd.so
+./usr/lib/libmicrohttpd.so.12
+./usr/lib/libmicrohttpd.so.12.60.0
+./usr/lib/libmicrohttpd.a
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/libmicrohttpd.pc

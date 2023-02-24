@@ -1,0 +1,13 @@
+./
+./host
+./usr
+./usr/lib
+./usr/lib/libopendkim.so
+./usr/lib/libopendkim.so.10
+./usr/lib/libopendkim.so.10.0.3
+./usr/sbin
+./usr/sbin/opendkim
+./usr/sbin/opendkim-genkey
+./usr/sbin/opendkim-genzone
+./usr/sbin/opendkim-testkey
+./usr/sbin/opendkim-testmsg

@@ -1,0 +1,11 @@
+./
+./host
+./usr
+./usr/lib
+./usr/lib/libatasmart.so
+./usr/lib/libatasmart.so.4
+./usr/lib/libatasmart.so.4.0.5
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/libatasmart.pc
+./usr/include
+./usr/include/atasmart.h

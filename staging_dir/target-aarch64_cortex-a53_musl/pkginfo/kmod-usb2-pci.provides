@@ -1,0 +1,7 @@
+ehci-fsl.ko
+ehci-hcd.ko
+ehci-pci.ko
+ehci-platform.ko
+fsl-mph-dr-of.ko
+usb-common.ko
+usbcore.ko

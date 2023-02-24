@@ -1,0 +1,12 @@
+./
+./host
+./usr
+./usr/include
+./usr/include/newt.h
+./usr/lib
+./usr/lib/libnewt.a
+./usr/lib/libnewt.so
+./usr/lib/libnewt.so.0.52
+./usr/lib/libnewt.so.0.52.21
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/libnewt.pc

@@ -1,0 +1,10 @@
+pdns-backend-geoip
+pdns-backend-mysql
+pdns-backend-odbc
+pdns-backend-pgsql
+pdns-backend-sqlite3
+pdns-backend-ldap
+pdns-backend-lua2
+pdns-backend-pipe
+pdns-backend-remote
+pdns

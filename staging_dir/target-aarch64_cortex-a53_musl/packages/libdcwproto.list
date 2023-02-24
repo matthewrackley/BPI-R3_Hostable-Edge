@@ -1,0 +1,9 @@
+./
+./host
+./usr
+./usr/include
+./usr/include/dcwproto.h
+./usr/lib
+./usr/lib/libdcwproto.so
+./usr/lib/libdcwproto.so.0
+./usr/lib/libdcwproto.so.0.0.1

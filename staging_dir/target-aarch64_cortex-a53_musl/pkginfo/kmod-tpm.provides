@@ -1,0 +1,3 @@
+asn1_decoder.ko
+oid_registry.ko
+tpm.ko

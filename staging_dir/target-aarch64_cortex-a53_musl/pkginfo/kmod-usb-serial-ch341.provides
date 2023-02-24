@@ -1,0 +1,4 @@
+ch341.ko
+usb-common.ko
+usbcore.ko
+usbserial.ko

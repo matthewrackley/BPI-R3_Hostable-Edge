@@ -1,0 +1,10 @@
+baresip
+baresip-mod-evdev
+baresip-mod-httpd
+baresip-mod-mwi
+baresip-mod-portaudio
+baresip-mod-rtcpsummary
+baresip-mod-selfview
+baresip-mod-srtp
+baresip-mod-v4l2
+baresip-mod-v4l2-codec

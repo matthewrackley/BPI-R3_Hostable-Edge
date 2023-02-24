@@ -1,0 +1,17 @@
+./
+./host
+./usr
+./usr/lib
+./usr/lib/libconfig.so.11.1.0
+./usr/lib/libconfig.so.11
+./usr/lib/libconfig.so
+./usr/lib/cmake
+./usr/lib/cmake/libconfig
+./usr/lib/cmake/libconfig/libconfigConfig.cmake
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/libconfig.pc
+./usr/include
+./usr/include/libconfig.h
+./usr/info
+./usr/info/libconfig.info
+./usr/info/dir

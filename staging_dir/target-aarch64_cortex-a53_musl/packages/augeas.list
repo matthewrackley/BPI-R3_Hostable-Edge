@@ -1,0 +1,17 @@
+./
+./host
+./usr
+./usr/include
+./usr/include/augeas.h
+./usr/include/fa.h
+./usr/lib
+./usr/lib/libaugeas.a
+./usr/lib/libaugeas.so
+./usr/lib/libaugeas.so.0
+./usr/lib/libaugeas.so.0.24.2
+./usr/lib/libfa.a
+./usr/lib/libfa.so
+./usr/lib/libfa.so.1
+./usr/lib/libfa.so.1.5.3
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/augeas.pc

@@ -1,0 +1,3 @@
+ehci-hcd.ko
+usb-common.ko
+usbcore.ko

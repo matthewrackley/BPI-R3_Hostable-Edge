@@ -1,0 +1,16 @@
+bluetooth.ko
+bnep.ko
+btintel.ko
+btrtl.ko
+btusb.ko
+evdev.ko
+hci_uart.ko
+hid.ko
+hidp.ko
+libbluetooth.so.3
+libbluetooth.so.3.19.8
+libc.so
+libgcc_s.so.1
+rfcomm.ko
+usb-common.ko
+usbcore.ko

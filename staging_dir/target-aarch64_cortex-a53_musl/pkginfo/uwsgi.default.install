@@ -1,0 +1,6 @@
+uwsgi
+uwsgi-logfile-plugin
+uwsgi-syslog-plugin
+uwsgi-cgi-plugin
+uwsgi-python3-plugin
+uwsgi-luci-support

@@ -1,0 +1,6 @@
+./
+./host
+./usr
+./usr/lib
+./usr/lib/libcurl-gnutls.so.4
+./usr/lib/libcurl-gnutls.so

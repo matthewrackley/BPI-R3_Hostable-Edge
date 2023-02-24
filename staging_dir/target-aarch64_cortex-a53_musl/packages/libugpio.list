@@ -1,0 +1,14 @@
+./
+./host
+./usr
+./usr/include
+./usr/include/ugpio
+./usr/include/ugpio/ugpio.h
+./usr/include/ugpio/ugpio-version.h
+./usr/lib
+./usr/lib/libugpio.so
+./usr/lib/libugpio.so.1
+./usr/lib/libugpio.so.1.0.0
+./usr/lib/libugpio.a
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/libugpio.pc

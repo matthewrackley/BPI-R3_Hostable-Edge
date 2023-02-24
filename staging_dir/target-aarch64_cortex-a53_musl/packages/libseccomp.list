@@ -1,0 +1,13 @@
+./
+./host
+./usr
+./usr/include
+./usr/include/seccomp-syscalls.h
+./usr/include/seccomp.h
+./usr/lib
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/libseccomp.pc
+./usr/lib/libseccomp.a
+./usr/lib/libseccomp.so
+./usr/lib/libseccomp.so.2
+./usr/lib/libseccomp.so.2.5.4

@@ -1,0 +1,4 @@
+inet_diag.ko
+raw_diag.ko
+tcp_diag.ko
+udp_diag.ko

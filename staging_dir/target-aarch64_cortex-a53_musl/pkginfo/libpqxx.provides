@@ -1,0 +1,8 @@
+libc.so
+libgcc_s.so.1
+libpq.so.5
+libpq.so.5.15
+libpqxx-7.7.so
+libpqxx.so
+libstdc++.so.6
+libstdc++.so.6.0.30

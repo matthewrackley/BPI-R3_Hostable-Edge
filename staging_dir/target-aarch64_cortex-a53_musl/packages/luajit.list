@@ -1,0 +1,17 @@
+./
+./host
+./usr
+./usr/include
+./usr/include/luajit-2.1
+./usr/include/luajit-2.1/lauxlib.h
+./usr/include/luajit-2.1/lua.h
+./usr/include/luajit-2.1/luaconf.h
+./usr/include/luajit-2.1/luajit.h
+./usr/include/luajit-2.1/lualib.h
+./usr/include/luajit-2.1/lua.hpp
+./usr/lib
+./usr/lib/libluajit-5.1.so
+./usr/lib/libluajit-5.1.so.2
+./usr/lib/libluajit-5.1.so.2.1.0
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/luajit.pc

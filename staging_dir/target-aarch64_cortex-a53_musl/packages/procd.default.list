@@ -1,0 +1,16 @@
+./
+./host
+./usr
+./usr/lib
+./usr/lib/libsetlbf.so
+./usr/lib/libpreload-seccomp.so
+./usr/lib/libpreload-trace.so
+./usr/sbin
+./usr/sbin/procd
+./usr/sbin/init
+./usr/sbin/udevtrigger
+./usr/sbin/askfirst
+./usr/sbin/ujail
+./usr/sbin/uxc
+./usr/sbin/utrace
+./usr/sbin/upgraded

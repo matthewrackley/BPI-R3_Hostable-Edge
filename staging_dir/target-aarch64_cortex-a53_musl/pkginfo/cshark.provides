@@ -1,0 +1,16 @@
+libc.so
+libgcc_s.so.1
+libjson-c.so.5
+libjson-c.so.5.2.0
+libmbedcrypto.so.2.28.2
+libmbedcrypto.so.7
+libmbedtls.so.14
+libmbedtls.so.2.28.2
+libmbedx509.so.1
+libmbedx509.so.2.28.2
+libpcap.so.1
+libpcap.so.1.10.3
+libubox.so.20220927
+libuci.so
+libuclient.so
+libustream-ssl.so

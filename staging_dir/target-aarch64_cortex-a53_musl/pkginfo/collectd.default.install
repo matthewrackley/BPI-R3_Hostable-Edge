@@ -1,0 +1,8 @@
+collectd
+collectd-mod-cpu
+collectd-mod-interface
+collectd-mod-iwinfo
+collectd-mod-load
+collectd-mod-memory
+collectd-mod-network
+collectd-mod-rrdtool

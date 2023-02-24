@@ -1,0 +1,11 @@
+./
+./host
+./usr
+./usr/include
+./usr/include/routeros_api.h
+./usr/include/routeros_version.h
+./usr/lib
+./usr/lib/librouteros.a
+./usr/lib/librouteros.so
+./usr/lib/librouteros.so.0
+./usr/lib/librouteros.so.0.2.3

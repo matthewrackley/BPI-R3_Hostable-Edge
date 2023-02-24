@@ -1,0 +1,14 @@
+./
+./host
+./usr
+./usr/include
+./usr/include/oniggnu.h
+./usr/include/onigposix.h
+./usr/include/oniguruma.h
+./usr/lib
+./usr/lib/libonig.a
+./usr/lib/libonig.so
+./usr/lib/libonig.so.5
+./usr/lib/libonig.so.5.2.0
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/oniguruma.pc

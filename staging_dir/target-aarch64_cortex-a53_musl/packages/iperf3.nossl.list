@@ -1,0 +1,10 @@
+./
+./host
+./usr
+./usr/lib
+./usr/lib/libiperf.a
+./usr/lib/libiperf.so
+./usr/lib/libiperf.so.0
+./usr/lib/libiperf.so.0.0.0
+./usr/include
+./usr/include/iperf_api.h

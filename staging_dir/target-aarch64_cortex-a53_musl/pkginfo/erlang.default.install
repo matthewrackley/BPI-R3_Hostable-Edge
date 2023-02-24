@@ -1,0 +1,14 @@
+erlang
+erlang-asn1
+erlang-crypto
+erlang-inets
+erlang-runtime-tools
+erlang-snmp
+erlang-public-key
+erlang-ssh
+erlang-ssl
+erlang-syntax-tools
+erlang-tools
+erlang-reltool
+erlang-erl-interface
+erlang-os_mon

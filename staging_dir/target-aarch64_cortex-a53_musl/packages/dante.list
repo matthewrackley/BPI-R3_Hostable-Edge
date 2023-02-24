@@ -1,0 +1,11 @@
+./
+./host
+./usr
+./usr/include
+./usr/include/socks.h
+./usr/lib
+./usr/lib/libsocks.a
+./usr/lib/libdsocks.so
+./usr/lib/libsocks.so
+./usr/lib/libsocks.so.0
+./usr/lib/libsocks.so.0.1.1

@@ -1,0 +1,11 @@
+./
+./host
+./usr
+./usr/include
+./usr/include/qrencode.h
+./usr/lib
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/libqrencode.pc
+./usr/lib/libqrencode.so
+./usr/lib/libqrencode.so.4
+./usr/lib/libqrencode.so.4.1.1

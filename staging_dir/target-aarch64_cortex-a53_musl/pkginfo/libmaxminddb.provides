@@ -1,0 +1,4 @@
+libc.so
+libgcc_s.so.1
+libmaxminddb.so
+libmaxminddb.so.0.0.7

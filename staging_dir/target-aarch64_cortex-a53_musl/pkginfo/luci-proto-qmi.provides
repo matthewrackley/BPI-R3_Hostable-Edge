@@ -1,0 +1,12 @@
+cdc-wdm.ko
+libblobmsg_json.so.20220927
+libc.so
+libgcc_s.so.1
+libjson-c.so.5
+libjson-c.so.5.2.0
+libubox.so.20220927
+mii.ko
+qmi_wwan.ko
+usb-common.ko
+usbcore.ko
+usbnet.ko

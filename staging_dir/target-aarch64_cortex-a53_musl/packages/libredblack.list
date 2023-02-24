@@ -1,0 +1,10 @@
+./
+./host
+./usr
+./usr/lib
+./usr/lib/libredblack.so
+./usr/lib/libredblack.so.0
+./usr/lib/libredblack.so.0.2.3
+./usr/lib/libredblack.a
+./usr/include
+./usr/include/redblack.h

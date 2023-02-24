@@ -1,0 +1,16 @@
+libPocoEncodings.so
+libPocoEncodings.so.80
+libPocoFoundation.so
+libPocoFoundation.so.80
+libPocoJSON.so
+libPocoJSON.so.80
+libPocoNet.so
+libPocoNet.so.80
+libPocoUtil.so
+libPocoUtil.so.80
+libPocoXML.so
+libPocoXML.so.80
+libc.so
+libgcc_s.so.1
+libstdc++.so.6
+libstdc++.so.6.0.30

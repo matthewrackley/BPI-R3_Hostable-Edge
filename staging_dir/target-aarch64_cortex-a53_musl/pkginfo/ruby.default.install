@@ -1,0 +1,12 @@
+libruby
+ruby
+ruby-bigdecimal
+ruby-date
+ruby-digest
+ruby-enc
+ruby-forwardable
+ruby-pstore
+ruby-psych
+ruby-stringio
+ruby-strscan
+ruby-yaml

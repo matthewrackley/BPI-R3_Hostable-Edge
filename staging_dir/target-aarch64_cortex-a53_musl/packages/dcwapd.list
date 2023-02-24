@@ -1,0 +1,16 @@
+./
+./host
+./usr
+./usr/lib
+./usr/lib/libdcwcore.a
+./usr/lib/libdcwcore.so
+./usr/lib/libdcwcore.so.0
+./usr/lib/libdcwcore.so.0.0.0
+./usr/lib/libdcwlinux.a
+./usr/lib/libdcwlinux.so
+./usr/lib/libdcwlinux.so.0
+./usr/lib/libdcwlinux.so.0.0.0
+./usr/lib/libdcwposix.a
+./usr/lib/libdcwposix.so
+./usr/lib/libdcwposix.so.0
+./usr/lib/libdcwposix.so.0.0.0

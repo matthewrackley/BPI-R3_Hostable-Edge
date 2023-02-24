@@ -1,0 +1,3 @@
+ledtrig-usbport.ko
+usb-common.ko
+usbcore.ko

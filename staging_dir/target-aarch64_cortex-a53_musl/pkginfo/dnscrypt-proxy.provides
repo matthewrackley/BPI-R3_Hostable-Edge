@@ -1,0 +1,14 @@
+libc.so
+libcrypto.so.1.1
+libdcplugin_example_cache.so
+libdcplugin_example_ldns_aaaa_blocking.so
+libdcplugin_example_ldns_blocking.so
+libdcplugin_example_logging.so
+libgcc_s.so.1
+libldns.so.3
+libldns.so.3.5.0
+libltdl.so.7
+libltdl.so.7.3.2
+libsodium.so.23
+libsodium.so.23.3.0
+libssl.so.1.1

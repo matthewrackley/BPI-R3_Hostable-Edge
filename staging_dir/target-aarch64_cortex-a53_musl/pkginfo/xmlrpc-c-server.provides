@@ -1,0 +1,17 @@
+libc.so
+libgcc_s.so.1
+libxmlrpc.so
+libxmlrpc.so.3
+libxmlrpc.so.3.51
+libxmlrpc_server.so
+libxmlrpc_server.so.3
+libxmlrpc_server.so.3.51
+libxmlrpc_util.so
+libxmlrpc_util.so.4
+libxmlrpc_util.so.4.51
+libxmlrpc_xmlparse.so
+libxmlrpc_xmlparse.so.3
+libxmlrpc_xmlparse.so.3.51
+libxmlrpc_xmltok.so
+libxmlrpc_xmltok.so.3
+libxmlrpc_xmltok.so.3.51

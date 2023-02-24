@@ -1,0 +1,5 @@
+fuse.ko
+libc.so
+libfuse3.so.3
+libfuse3.so.3.10.5
+libgcc_s.so.1

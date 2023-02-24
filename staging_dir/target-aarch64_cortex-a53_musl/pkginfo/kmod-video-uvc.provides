@@ -1,0 +1,8 @@
+usb-common.ko
+usbcore.ko
+uvcvideo.ko
+videobuf2-common.ko
+videobuf2-memops.ko
+videobuf2-v4l2.ko
+videobuf2-vmalloc.ko
+videodev.ko

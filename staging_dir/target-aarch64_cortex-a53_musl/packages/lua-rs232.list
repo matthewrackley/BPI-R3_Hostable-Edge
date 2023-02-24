@@ -1,0 +1,17 @@
+./
+./host
+./usr
+./usr/include
+./usr/include/librs232
+./usr/include/librs232/rs232.h
+./usr/include/librs232/rs232_posix.h
+./usr/lib
+./usr/lib/librs232.a
+./usr/lib/librs232.so
+./usr/lib/librs232.so.1
+./usr/lib/librs232.so.1.0.3
+./usr/lib/lua
+./usr/lib/lua/luars232.a
+./usr/lib/lua/luars232.so
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/librs232.pc

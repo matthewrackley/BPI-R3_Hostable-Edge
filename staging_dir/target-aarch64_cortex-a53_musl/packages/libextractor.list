@@ -1,0 +1,16 @@
+./
+./host
+./usr
+./usr/include
+./usr/include/extractor.h
+./usr/lib
+./usr/lib/libextractor.so
+./usr/lib/libextractor.so.3
+./usr/lib/libextractor.so.3.1.8
+./usr/lib/libextractor_common.so
+./usr/lib/libextractor_common.so.1
+./usr/lib/libextractor_common.so.1.0.0
+./usr/lib/libextractor.a
+./usr/lib/libextractor_common.a
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/libextractor.pc

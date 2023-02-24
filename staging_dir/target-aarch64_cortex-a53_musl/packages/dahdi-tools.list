@@ -1,0 +1,12 @@
+./
+./host
+./usr
+./usr/lib
+./usr/lib/libtonezone.a
+./usr/lib/libtonezone.so
+./usr/lib/libtonezone.so.2
+./usr/lib/libtonezone.so.2.0
+./usr/lib/libtonezone.so.2.0.0
+./usr/include
+./usr/include/dahdi
+./usr/include/dahdi/tonezone.h

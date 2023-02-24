@@ -1,0 +1,11 @@
+libcomerr
+libss
+libext2fs
+e2fsprogs
+resize2fs
+badblocks
+dumpe2fs
+e4crypt
+filefrag
+debugfs
+lsattr

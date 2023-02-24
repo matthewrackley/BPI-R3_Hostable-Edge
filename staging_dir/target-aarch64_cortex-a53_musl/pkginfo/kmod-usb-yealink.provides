@@ -1,0 +1,4 @@
+evdev.ko
+usb-common.ko
+usbcore.ko
+yealink.ko

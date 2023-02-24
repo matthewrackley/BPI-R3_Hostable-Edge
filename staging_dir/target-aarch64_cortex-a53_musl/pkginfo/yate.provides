@@ -1,0 +1,16 @@
+libc.so
+libgcc_s.so.1
+libstdc++.so.6
+libstdc++.so.6.0.30
+libyate.so
+libyate.so.6.4.0
+libyateasn.so
+libyateasn.so.6.4.0
+libyatejabber.so
+libyatejabber.so.6.4.0
+libyatemgcp.so
+libyatemgcp.so.6.4.0
+libyatescript.so
+libyatescript.so.6.4.0
+libyatesig.so
+libyatesig.so.6.4.0

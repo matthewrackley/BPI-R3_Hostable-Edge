@@ -1,0 +1,4 @@
+uas.ko
+usb-common.ko
+usb-storage.ko
+usbcore.ko

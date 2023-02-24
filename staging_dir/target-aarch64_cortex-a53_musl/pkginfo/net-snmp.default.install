@@ -1,0 +1,5 @@
+libnetsnmp
+snmp-mibs
+snmp-utils
+snmpd
+snmptrapd

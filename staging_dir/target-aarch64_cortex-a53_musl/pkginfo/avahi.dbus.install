@@ -1,0 +1,7 @@
+libavahi-client
+libavahi-dbus-support
+avahi-autoipd
+avahi-dbus-daemon
+avahi-daemon-service-http
+avahi-daemon-service-ssh
+avahi-dnsconfd

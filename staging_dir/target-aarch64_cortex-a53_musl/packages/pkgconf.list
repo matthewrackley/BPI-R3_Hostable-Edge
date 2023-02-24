@@ -1,0 +1,17 @@
+./
+./host
+./usr
+./usr/include
+./usr/include/libpkgconf
+./usr/include/libpkgconf/bsdstubs.h
+./usr/include/libpkgconf/iter.h
+./usr/include/libpkgconf/libpkgconf-api.h
+./usr/include/libpkgconf/libpkgconf.h
+./usr/include/libpkgconf/stdinc.h
+./usr/lib
+./usr/lib/libpkgconf.so
+./usr/lib/libpkgconf.so.3
+./usr/lib/libpkgconf.so.3.0.0
+./usr/share
+./usr/share/aclocal
+./usr/share/aclocal/pkg.m4

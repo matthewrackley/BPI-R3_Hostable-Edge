@@ -1,0 +1,11 @@
+./
+./host
+./usr
+./usr/include
+./usr/include/libcryptsetup.h
+./usr/lib
+./usr/lib/libcryptsetup.so
+./usr/lib/libcryptsetup.so.12
+./usr/lib/libcryptsetup.so.12.9.0
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/libcryptsetup.pc

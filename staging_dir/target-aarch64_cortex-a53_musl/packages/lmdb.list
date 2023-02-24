@@ -1,0 +1,10 @@
+./
+./host
+./usr
+./usr/include
+./usr/include/lmdb.h
+./usr/lib
+./usr/lib/liblmdb.a
+./usr/lib/liblmdb.so
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/lmdb.pc

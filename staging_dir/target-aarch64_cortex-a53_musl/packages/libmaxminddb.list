@@ -1,0 +1,11 @@
+./
+./host
+./usr
+./usr/include
+./usr/include/maxminddb.h
+./usr/include/maxminddb_config.h
+./usr/lib
+./usr/lib/libmaxminddb.so
+./usr/lib/libmaxminddb.so.0.0.7
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/libmaxminddb.pc

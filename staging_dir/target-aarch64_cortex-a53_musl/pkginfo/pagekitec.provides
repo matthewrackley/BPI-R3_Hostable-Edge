@@ -1,0 +1,10 @@
+libc.so
+libcrypto.so.1.1
+libev.so
+libev.so.4
+libev.so.4.0.0
+libgcc_s.so.1
+libpagekite.so
+libpagekite.so.1
+libpagekite.so.1.0.0
+libssl.so.1.1

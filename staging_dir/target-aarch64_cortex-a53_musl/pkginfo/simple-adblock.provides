@@ -1,0 +1,16 @@
+libblobmsg_json.so.20220927
+libc.so
+libcrypto.so.1.1
+libgcc_s.so.1
+libjson-c.so.5
+libjson-c.so.5.2.0
+libpcre.so
+libpcre.so.1
+libpcre.so.1.2.13
+libpcreposix.so.0
+libpcreposix.so.0.0.7
+libssl.so.1.1
+libubox.so.20220927
+libz.so
+libz.so.1
+libz.so.1.2.13

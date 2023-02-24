@@ -1,0 +1,9 @@
+backlight.ko
+drm.ko
+drm_panel_orientation_quirks.ko
+fb.ko
+fb_sys_fops.ko
+font.ko
+syscopyarea.ko
+sysfillrect.ko
+sysimgblt.ko

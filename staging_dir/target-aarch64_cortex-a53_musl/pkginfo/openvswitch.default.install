@@ -1,0 +1,12 @@
+kmod-openvswitch
+kmod-openvswitch-gre
+kmod-openvswitch-vxlan
+kmod-openvswitch-geneve
+openvswitch-libopenvswitch
+openvswitch-libofproto
+openvswitch-libovsdb
+openvswitch-vswitchd
+openvswitch-ovsdb
+openvswitch-common
+openvswitch
+openvswitch-python3

@@ -1,0 +1,5 @@
+backlight.ko
+drm.ko
+drm_panel_orientation_quirks.ko
+fb.ko
+font.ko

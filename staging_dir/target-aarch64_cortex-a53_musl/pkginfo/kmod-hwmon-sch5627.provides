@@ -1,0 +1,3 @@
+hwmon.ko
+sch5627.ko
+sch56xx-common.ko

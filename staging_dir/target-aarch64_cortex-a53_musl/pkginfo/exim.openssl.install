@@ -1,0 +1,5 @@
+exim-lookup-json
+exim-lookup-mysql
+exim-lookup-passwd
+exim-lookup-pgsql
+exim-lookup-redis

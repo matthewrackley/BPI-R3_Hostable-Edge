@@ -1,0 +1,9 @@
+knot-libs
+knot-libzscanner
+knot
+knot-dig
+knot-host
+knot-nsupdate
+knot-zonecheck
+knot-keymgr
+knot-tests

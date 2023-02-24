@@ -1,0 +1,12 @@
+./
+./host
+./usr
+./usr/lib
+./usr/lib/libtalloc.so
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/talloc.pc
+./usr/include
+./usr/include/pytalloc.h
+./usr/include/pytalloc_private.h
+./usr/include/talloc.h
+./usr/include/talloc_testsuite.h

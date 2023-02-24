@@ -1,0 +1,4 @@
+lz4.ko
+lz4_compress.ko
+lz4_decompress.ko
+lz4hc_compress.ko

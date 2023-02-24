@@ -1,0 +1,13 @@
+cdc-wdm.ko
+cdc_ether.ko
+cdc_ncm.ko
+huawei_cdc_ncm.ko
+libc.so
+libgcc_s.so.1
+mii.ko
+option.ko
+usb-common.ko
+usb_wwan.ko
+usbcore.ko
+usbnet.ko
+usbserial.ko

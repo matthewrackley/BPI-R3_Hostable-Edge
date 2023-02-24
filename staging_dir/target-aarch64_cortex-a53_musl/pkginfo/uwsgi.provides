@@ -1,0 +1,12 @@
+libc.so
+libcap.so
+libcap.so.2
+libcap.so.2.43
+libgcc_s.so.1
+libpcre.so
+libpcre.so.1
+libpcre.so.1.2.13
+libpcreposix.so.0
+libpcreposix.so.0.0.7
+libuuid.so.1
+libuuid.so.1.3.0

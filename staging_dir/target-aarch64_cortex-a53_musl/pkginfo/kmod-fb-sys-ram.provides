@@ -1,0 +1,5 @@
+fb.ko
+font.ko
+syscopyarea.ko
+sysfillrect.ko
+sysimgblt.ko

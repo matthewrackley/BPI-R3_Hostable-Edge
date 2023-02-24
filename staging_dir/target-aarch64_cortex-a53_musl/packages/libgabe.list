@@ -1,0 +1,7 @@
+./
+./host
+./usr
+./usr/include
+./usr/include/gabe.h
+./usr/lib
+./usr/lib/libgabe.so

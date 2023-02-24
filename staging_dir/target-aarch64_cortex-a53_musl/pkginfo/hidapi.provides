@@ -1,0 +1,15 @@
+libatomic.so.1
+libatomic.so.1.2.0
+libc.so
+libevdev.so.2
+libevdev.so.2.3.0
+libgcc_s.so.1
+libhidapi-hidraw.so.0
+libhidapi-hidraw.so.0.12.0
+libhidapi-libusb.so.0
+libhidapi-libusb.so.0.12.0
+libudev.so
+libudev.so.1
+libusb-1.0.so
+libusb-1.0.so.0
+libusb-1.0.so.0.3.0

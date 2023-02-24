@@ -1,0 +1,13 @@
+libc.so
+libcap.so
+libcap.so.2
+libcap.so.2.43
+libconfig.so.11
+libconfig.so.11.1.0
+libgcc_s.so.1
+libpcre2-8.so
+libpcre2-8.so.0
+libpcre2-8.so.0.10.2
+libpcre2-posix.so
+libpcre2-posix.so.3
+libpcre2-posix.so.3.0.0

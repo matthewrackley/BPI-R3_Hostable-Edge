@@ -1,0 +1,14 @@
+./
+./host
+./usr
+./usr/lib
+./usr/lib/cmake
+./usr/lib/cmake/wslay
+./usr/lib/cmake/wslay/wslay.cmake
+./usr/lib/cmake/wslay/wslay-release.cmake
+./usr/lib/cmake/wslay/wslay-config.cmake
+./usr/lib/libwslay.a
+./usr/include
+./usr/include/wslay
+./usr/include/wslay/wslay.h
+./usr/include/wslay/wslayver.h

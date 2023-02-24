@@ -1,0 +1,11 @@
+./
+./host
+./usr
+./usr/include
+./usr/include/netinet
+./usr/include/netinet/sctp.h
+./usr/lib
+./usr/lib/libsctp.a
+./usr/lib/libsctp.so
+./usr/lib/libsctp.so.1
+./usr/lib/libsctp.so.1.0.19

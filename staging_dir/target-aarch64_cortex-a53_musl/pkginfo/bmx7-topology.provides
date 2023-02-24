@@ -1,0 +1,16 @@
+libc.so
+libgcc_s.so.1
+libiwinfo.so.20230121
+libmbedcrypto.so.2.28.2
+libmbedcrypto.so.7
+libmbedtls.so.14
+libmbedtls.so.2.28.2
+libmbedx509.so.1
+libmbedx509.so.2.28.2
+libnl-tiny.so
+libubox.so.20220927
+libubus.so.20220615
+libuci.so
+libz.so
+libz.so.1
+libz.so.1.2.13

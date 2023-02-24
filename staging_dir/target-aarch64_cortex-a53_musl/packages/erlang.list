@@ -1,0 +1,11 @@
+./
+./host
+./usr
+./usr/lib
+./usr/lib/libei.a
+./usr/lib/libei_st.a
+./usr/include
+./usr/include/ei.h
+./usr/include/ei_connect.h
+./usr/include/ei_global.h
+./usr/include/eicode.h

@@ -1,0 +1,12 @@
+libc.so
+libgcc_s.so.1
+libmbedcrypto.so.2.28.2
+libmbedcrypto.so.7
+libmbedtls.so.14
+libmbedtls.so.2.28.2
+libmbedx509.so.1
+libmbedx509.so.2.28.2
+libminiupnpc.so.17
+libminiupnpc.so.2.2.3
+libnatpmp.so.1
+libnatpmp.so.20150609

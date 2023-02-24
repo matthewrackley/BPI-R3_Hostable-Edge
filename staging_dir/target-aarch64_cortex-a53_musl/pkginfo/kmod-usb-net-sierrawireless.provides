@@ -1,0 +1,5 @@
+mii.ko
+sierra_net.ko
+usb-common.ko
+usbcore.ko
+usbnet.ko

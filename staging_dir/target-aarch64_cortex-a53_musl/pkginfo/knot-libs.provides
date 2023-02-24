@@ -1,0 +1,17 @@
+libatomic.so.1
+libatomic.so.1.2.0
+libc.so
+libdnssec.so.9
+libdnssec.so.9.0.0
+libgcc_s.so.1
+libgmp.so.10
+libgmp.so.10.4.1
+libgnutls.so.30
+libgnutls.so.30.34.2
+libhogweed.so.6
+libhogweed.so.6.6
+libknot.so.13
+libknot.so.13.0.0
+liblmdb.so
+libnettle.so.8
+libnettle.so.8.6

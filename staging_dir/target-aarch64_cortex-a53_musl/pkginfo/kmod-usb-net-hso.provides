@@ -1,0 +1,5 @@
+hso.ko
+mii.ko
+usb-common.ko
+usbcore.ko
+usbnet.ko

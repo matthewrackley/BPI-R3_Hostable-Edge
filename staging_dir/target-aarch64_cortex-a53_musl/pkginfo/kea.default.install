@@ -1,0 +1,12 @@
+kea-libs
+kea-ctrl
+kea-dhcp4
+kea-dhcp6
+kea-dhcp-ddns
+kea-admin
+kea-hook-ha
+kea-hook-lease-cmds
+kea-lfc
+kea-perfdhcp
+kea-shell
+kea-uci

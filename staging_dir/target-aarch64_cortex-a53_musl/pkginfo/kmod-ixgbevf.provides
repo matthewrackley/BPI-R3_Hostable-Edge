@@ -1,0 +1,6 @@
+hwmon.ko
+ixgbe.ko
+ixgbevf.ko
+mdio.ko
+pps_core.ko
+ptp.ko

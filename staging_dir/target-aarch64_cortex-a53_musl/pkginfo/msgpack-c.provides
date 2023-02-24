@@ -1,0 +1,5 @@
+libc.so
+libgcc_s.so.1
+libmsgpackc.so
+libmsgpackc.so.2
+libmsgpackc.so.2.0.0

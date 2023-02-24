@@ -1,0 +1,9 @@
+./
+./host
+./usr
+./usr/include
+./usr/include/dcwsocket.h
+./usr/lib
+./usr/lib/libdcwsocket.so
+./usr/lib/libdcwsocket.so.0
+./usr/lib/libdcwsocket.so.0.0.1

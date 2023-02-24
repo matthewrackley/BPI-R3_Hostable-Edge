@@ -1,0 +1,12 @@
+./
+./host
+./usr
+./usr/include
+./usr/include/cjson
+./usr/include/cjson/cJSON.h
+./usr/lib
+./usr/lib/libcjson.so
+./usr/lib/libcjson.so.1
+./usr/lib/libcjson.so.1.7.15
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/libcjson.pc

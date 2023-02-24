@@ -1,0 +1,6 @@
+at86rf230.ko
+crc-ccitt.ko
+ieee802154.ko
+ieee802154_socket.ko
+mac802154.ko
+regmap-spi.ko

@@ -1,0 +1,17 @@
+libaudit.so.1
+libaudit.so.1.0.0
+libbz2.so.1.0
+libbz2.so.1.0.8
+libc.so
+libfts.so
+libfts.so.0
+libfts.so.0.0.0
+libgcc_s.so.1
+libpcre.so
+libpcre.so.1
+libpcre.so.1.2.13
+libpcreposix.so.0
+libpcreposix.so.0.0.7
+libselinux.so.1
+libsemanage.so.2
+libsepol.so.2

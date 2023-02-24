@@ -1,0 +1,16 @@
+./
+./host
+./usr
+./usr/include
+./usr/include/traceevent
+./usr/include/traceevent/event-parse.h
+./usr/include/traceevent/event-utils.h
+./usr/include/traceevent/kbuffer.h
+./usr/include/traceevent/trace-seq.h
+./usr/lib
+./usr/lib/libtraceevent.a
+./usr/lib/libtraceevent.so
+./usr/lib/libtraceevent.so.1
+./usr/lib/libtraceevent.so.1.7.1
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/libtraceevent.pc

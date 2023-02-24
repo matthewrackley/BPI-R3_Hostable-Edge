@@ -1,0 +1,9 @@
+backlight.ko
+fb.ko
+fb_sys_fops.ko
+fbtft.ko
+font.ko
+spi-bitbang.ko
+syscopyarea.ko
+sysfillrect.ko
+sysimgblt.ko

@@ -1,0 +1,12 @@
+ddns-scripts
+ddns-scripts-services
+ddns-scripts-luadns
+ddns-scripts-cloudflare
+ddns-scripts-gcp
+ddns-scripts-godaddy
+ddns-scripts-digitalocean
+ddns-scripts-noip
+ddns-scripts-nsupdate
+ddns-scripts-route53
+ddns-scripts-pdns
+ddns-scripts-ns1

@@ -1,0 +1,6 @@
+evdev.ko
+hid-generic.ko
+hid.ko
+usb-common.ko
+usbcore.ko
+usbhid.ko

@@ -1,0 +1,16 @@
+./
+./host
+./usr
+./usr/include
+./usr/include/liburing
+./usr/include/liburing/io_uring.h
+./usr/include/liburing/compat.h
+./usr/include/liburing/barrier.h
+./usr/include/liburing.h
+./usr/lib
+./usr/lib/liburing.so
+./usr/lib/liburing.so.2
+./usr/lib/liburing.so.2.3
+./usr/lib/liburing.a
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/liburing.pc

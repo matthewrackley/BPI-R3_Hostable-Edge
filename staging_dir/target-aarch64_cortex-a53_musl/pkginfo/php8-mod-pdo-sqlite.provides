@@ -1,0 +1,15 @@
+libc.so
+libgcc_s.so.1
+libpcre2-8.so
+libpcre2-8.so.0
+libpcre2-8.so.0.10.2
+libpcre2-posix.so
+libpcre2-posix.so.3
+libpcre2-posix.so.3.0.0
+libsqlite3.so.0
+libsqlite3.so.0.8.6
+libxml2.so.2
+libxml2.so.2.10.3
+libz.so
+libz.so.1
+libz.so.1.2.13

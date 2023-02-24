@@ -1,0 +1,8 @@
+./
+./host
+./usr
+./usr/include
+./usr/include/libuci2.h
+./usr/include/uci2_ast.h
+./usr/lib
+./usr/lib/libuci2.so

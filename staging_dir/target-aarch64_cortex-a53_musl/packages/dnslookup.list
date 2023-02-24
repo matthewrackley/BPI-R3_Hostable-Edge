@@ -1,0 +1,12 @@
+./
+./host
+./usr
+./usr/share
+./usr/share/gocode
+./usr/share/gocode/src
+./usr/share/gocode/src/github.com
+./usr/share/gocode/src/github.com/ameshkov
+./usr/share/gocode/src/github.com/ameshkov/dnslookup
+./usr/share/gocode/src/github.com/ameshkov/dnslookup/go.mod
+./usr/share/gocode/src/github.com/ameshkov/dnslookup/go.sum
+./usr/share/gocode/src/github.com/ameshkov/dnslookup/main.go

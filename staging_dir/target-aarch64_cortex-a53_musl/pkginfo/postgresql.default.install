@@ -1,0 +1,4 @@
+libpq
+pgsql-cli
+pgsql-cli-extra
+pgsql-server

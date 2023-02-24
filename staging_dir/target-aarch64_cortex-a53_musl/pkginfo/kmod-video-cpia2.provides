@@ -1,0 +1,4 @@
+cpia2.ko
+usb-common.ko
+usbcore.ko
+videodev.ko

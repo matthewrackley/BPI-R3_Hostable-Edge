@@ -1,0 +1,17 @@
+./
+./host
+./usr
+./usr/include
+./usr/include/fuse3
+./usr/include/fuse3/cuse_lowlevel.h
+./usr/include/fuse3/fuse.h
+./usr/include/fuse3/fuse_common.h
+./usr/include/fuse3/fuse_log.h
+./usr/include/fuse3/fuse_lowlevel.h
+./usr/include/fuse3/fuse_opt.h
+./usr/lib
+./usr/lib/libfuse3.so
+./usr/lib/libfuse3.so.3
+./usr/lib/libfuse3.so.3.10.5
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/fuse3.pc

@@ -1,0 +1,8 @@
+cdc-wdm.ko
+cdc_ether.ko
+cdc_ncm.ko
+huawei_cdc_ncm.ko
+mii.ko
+usb-common.ko
+usbcore.ko
+usbnet.ko

@@ -1,0 +1,3 @@
+pinctrl-mcp23s08.ko
+pinctrl-mcp23s08_i2c.ko
+regmap-i2c.ko

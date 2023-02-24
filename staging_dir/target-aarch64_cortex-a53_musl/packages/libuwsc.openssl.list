@@ -1,0 +1,17 @@
+./
+./host
+./usr
+./usr/lib
+./usr/lib/libuwsc.so.3.3.5
+./usr/lib/libuwsc.so
+./usr/lib/libuwsc.a
+./usr/lib/lua
+./usr/lib/lua/uwsc.so
+./usr/include
+./usr/include/uwsc
+./usr/include/uwsc/log.h
+./usr/include/uwsc/uwsc.h
+./usr/include/uwsc/ssl.h
+./usr/include/uwsc/utils.h
+./usr/include/uwsc/buffer.h
+./usr/include/uwsc/config.h

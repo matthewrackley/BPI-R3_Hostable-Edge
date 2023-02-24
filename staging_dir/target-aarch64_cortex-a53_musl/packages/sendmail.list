@@ -1,0 +1,10 @@
+./
+./host
+./usr
+./usr/include
+./usr/include/libmilter
+./usr/include/libmilter/mfapi.h
+./usr/include/libmilter/mfdef.h
+./usr/lib
+./usr/lib/libmilter.so
+./usr/lib/libmilter.so.1.0.1

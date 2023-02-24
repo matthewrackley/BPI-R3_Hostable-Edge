@@ -1,0 +1,4 @@
+libapparmor.so
+libapparmor.so.1
+libc.so
+libgcc_s.so.1

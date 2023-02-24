@@ -1,0 +1,2 @@
+leds-tlc591xx.ko
+regmap-i2c.ko

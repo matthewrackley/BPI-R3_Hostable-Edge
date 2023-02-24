@@ -1,0 +1,10 @@
+libc.so
+libdbdsqlite3.so
+libdbi.so.1
+libdbi.so.1.1.0
+libgcc_s.so.1
+libsqlite3.so.0
+libsqlite3.so.0.8.6
+libz.so
+libz.so.1
+libz.so.1.2.13

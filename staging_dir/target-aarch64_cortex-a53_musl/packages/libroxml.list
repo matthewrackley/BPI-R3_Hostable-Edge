@@ -1,0 +1,12 @@
+./
+./host
+./usr
+./usr/lib
+./usr/lib/libroxml.so.2
+./usr/lib/libroxml.so.3.0.2
+./usr/lib/libroxml.so
+./usr/lib/libroxml.a
+./usr/bin
+./usr/bin/roxml
+./usr/include
+./usr/include/roxml.h

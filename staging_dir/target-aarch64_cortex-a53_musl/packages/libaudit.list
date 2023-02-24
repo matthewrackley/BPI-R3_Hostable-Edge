@@ -1,0 +1,12 @@
+./
+./host
+./usr
+./usr/include
+./usr/include/libaudit.h
+./usr/lib
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/audit.pc
+./usr/lib/libaudit.a
+./usr/lib/libaudit.so
+./usr/lib/libaudit.so.1
+./usr/lib/libaudit.so.1.0.0

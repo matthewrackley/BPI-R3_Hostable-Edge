@@ -1,0 +1,6 @@
+openssh-client
+openssh-moduli
+openssh-client-utils
+openssh-keygen
+openssh-sftp-client
+openssh-sftp-server

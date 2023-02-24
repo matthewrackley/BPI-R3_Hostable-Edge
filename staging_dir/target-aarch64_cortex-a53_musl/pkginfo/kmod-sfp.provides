@@ -1,0 +1,3 @@
+hwmon.ko
+mdio-i2c.ko
+sfp.ko
