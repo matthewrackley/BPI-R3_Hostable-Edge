@@ -11,11 +11,8 @@
 /staging_dir
 /tmp
 /logs
-/feeds
-/feeds.conf
 /files
 /overlay
-/package/feeds
 /package/openwrt-packages
 /*.patch
 /llvm-bpf*
